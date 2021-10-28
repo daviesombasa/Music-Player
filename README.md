@@ -1,9 +1,10 @@
 <h2>MP3 Music Player</h2>
 
 <p> 
-  This is playlist that can be used to play mp3 music using tkinter module. <br>
-  The code has been recreated from https://www.youtube.com/playlist?list=PLhTjy8cBISEp6lNKUO3iwbB1DKAkRwutl <br>
-  Modification to personalize it have been done. <br>
-  Images used are obatined from https://www.flaticon.com/
+  <ul>
+    <li>  This is playlist that can be used to play mp3 music using <a href="https://docs.python.org/3/library/tkinter.html">Tkinter Moddule.</a></li>
+    <li>  Modification to personalize it have been done.</li>
+    <li>  Images used are obatined <a href="https://www.flaticon.com/">HERE</a></li>
+  </ul>  
 </p>
-Request for any modifications are welcome
+Do play around with it.
